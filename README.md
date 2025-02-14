@@ -7,9 +7,13 @@
 Este projeto permite analisar o **índice de conectividade de uma rede de metro**, avaliando o **número mínimo de mudanças de linha** necessárias para viajar entre quaisquer duas estações.  
 
 A medida utilizada é o **índice de conectividade do metro** (**mc**), definido como:  
-mc = max{ML(e1, e2) | e1, e2 ∈ Metro}
-onde **ML(e1, e2)** representa o número mínimo de trocas de linha entre as estações **e1** e **e2**.  
 
+$$
+mc = \max \{ ML(e_1, e_2) \mid e_1, e_2 \in \text{Metro} \}
+$$
+
+onde **ML(e₁, e₂)** representa o número mínimo de trocas de linha entre as estações **e₁** e **e₂**.  
+ 
 ---
 
 ## 🎯 Definição do Problema  
