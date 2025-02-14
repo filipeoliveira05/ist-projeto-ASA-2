@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.pl": "prolog",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "set": "cpp",
+        "climits": "cpp",
+        "tuple": "cpp",
+        "iostream": "cpp",
+        "functional": "cpp"
+    }
+}
